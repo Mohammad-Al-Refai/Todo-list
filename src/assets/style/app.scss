@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    outline: none;
+    transition: 0.5s;
+}
+
+@import "./components/Item.scss";
+@import "./components/ItemsList.scss";
+@import "./AppContainer.scss";
+@import "./components/SearchBar.scss";
+@import "./components/AddButton.scss";
