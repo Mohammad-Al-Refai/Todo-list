@@ -8,3 +8,4 @@ My first project in TypeScript
 - Redux
 - React-redux
 - React-bootstrap
+- SASS
